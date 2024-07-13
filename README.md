@@ -22,15 +22,8 @@ I am a passionate developer skilled in multiple programming languages including 
 - ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
 - ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KONGNAML&show_icons=true&theme=radical)
-
-### 📊 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KONGNAML&layout=compact&theme=radical)
-
 ### 📫 How to reach me
 - **Email**: [dh00226@naver.com](mailto:your-email@example.com)
 
 ---
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=KONGNAML)](https://solved.ac/KONGNAML)
